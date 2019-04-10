@@ -1,0 +1,16 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "description": "A log class that wraps a winston logger to allow easy logging of objects to a file and console",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karanveer Plaha",
+  "license": "ISC",
+  "dependencies": {
+    "node-datetime": "^2.1.2",
+    "node-fetch": "^2.3.0",
+    "winston": "^3.2.1"
+  }
+}
